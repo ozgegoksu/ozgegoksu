@@ -15,3 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgegoksu&show_icons=true&locale=en" alt="ozgegoksu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?
+
+![snake gif](https://github.com/ozgegoksu/ozgegoksu/blob/output/github-contribution-grid-snake.gif)
