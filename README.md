@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özge</h1>
-<h3 align="center">a senior computer engineering student and passionate developer from Türkiye</h3>
+<h3 align="center">a senior computer engineering student and passionate developer from Türkiye </h3>
 
 <!-- Cute Dev GIF -->
 <p align="center">
